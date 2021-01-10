@@ -1,6 +1,10 @@
 .container {
   width: 1180px;
-  margin: auto;
+  margin: 0 auto;
   max-width: 100%;
   padding: 60px 20px;
+}
+
+.container--samller {
+  width: 100%;
 }
