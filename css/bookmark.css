@@ -9,19 +9,19 @@
 }
 
 .bookmark--menu {
-  background: url("bookmarks/menu.jpg");
+  background: url("../bookmarks/menu.jpg");
 }
 
 .bookmark--gallery {
-  background: url("bookmarks/gallery.jpg");
+  background: url("../bookmarks/gallery.jpg");
 }
 
 .bookmark--contact{
-  background: url("bookmarks/contact.jpg");
+  background: url("../bookmarks/contact.jpg");
 }
 
 .bookmark--route {
-  background: url("bookmarks/route.jpg");
+  background: url("../bookmarks/route.jpg");
 }
 
 .bookmark::after {
